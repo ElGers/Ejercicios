@@ -13,7 +13,7 @@ pos = 0
 num_pos = 0
 num_neg = 0
 print(" ") 
-print("Ingrese la cantidad de numeros positivos o negativos que desee, si no desea ingresar más por favor ingrese 0.") #Opción
+print("Ingrese la cantidad de numeros positivos o negativos que desee, si no desea ingresar más por favor ingrese 0.") #Opción.
 while i!=0: #Mientras i sea distinto a 0 se seguira reptiendo el bucle.
     m = int(input()) #Número.
     i = m #Se reemplaza el valor de i al número ingresado.

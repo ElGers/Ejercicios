@@ -8,6 +8,6 @@ while i < n: #se inicia un bucle en donde se hacen las operaciones
     a = b
     b = suma
     if b < n: #se coloca la condición para garantizar que sean menores que n
-        print(b)# se va imprimiendo cada numero menor
+        print(b)# se va imprimiendo cada numero menor.
     else:
         i = n #Garantiza el bucle.

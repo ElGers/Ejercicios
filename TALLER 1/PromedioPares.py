@@ -9,4 +9,4 @@ for i in range(1, n + 1):
     if elementos % 2 == 0: #Comprueba si es par
         suma = suma + elementos
         pares = pares + 1
-print("El promedio de los numeros pares es: ",(suma/pares))#Se saca el promedio de solo los pares
+print("El promedio de los numeros pares es: ",(suma/pares))#Se saca el promedio de solo los pares.

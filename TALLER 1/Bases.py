@@ -32,7 +32,7 @@ elif b == 16: #Condición para base 16
             n = n // b   #división entera que determina el While.
         print(hexadecimal) # se imprime la variable que contiene los numeros o letras
 else:
-    print ("Ingrese una base valida.") #Base incorrecta.
+    print ("Ingrese una base valida.") #Base incorrecta..
 
     
 

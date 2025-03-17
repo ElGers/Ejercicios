@@ -16,7 +16,7 @@ if n1%2 == 0 and n2%2 == 0: # se crea la condición inical de ambos pares
             mcd = n1
     print(("mcd: ") and mcd)
 elif n1%2 != 0 and n2%2 != 0: #se crea la condición ambos impares
-        if n1 < n2: #se verifica el mcd
+        if n1 < n2: #se verifica el mcd.
             for i in range(1, n1 + 1, 1):
                 if n1 % i == 0 and n2 % i == 0:
                     mcd = i

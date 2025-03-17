@@ -18,5 +18,5 @@ for i in range(1, n+1): #se crea el rango.
             m = m + str (Div5)+" "
     else:
         m = str(i)+"." #si no es divisible por ninguno unicamente se coloca el numero y el punto
-    print(m)# se imprime lo que contenga m
+    print(m)# se imprime lo que contenga m.
         

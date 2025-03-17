@@ -9,6 +9,6 @@ if n > 2:
                 div= div +1 # De por si, todo numero tiene 2 divisores básicos, el número y él mismo, pero si no es primo tendrá más.
         if div>2:
             x=x-1
-    print("El primo menor más cercano es:",x)#si tiene dos divisores será el primo cercano menor
+    print("El primo menor más cercano es:",x)#si tiene dos divisores será el primo cercano menor.
 else :
     print("Por favor ingrese un número mayor a 2.")
